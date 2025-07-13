@@ -1,2 +1,0 @@
-# Climat
-GEE Java code
